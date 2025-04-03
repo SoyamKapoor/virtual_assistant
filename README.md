@@ -54,11 +54,13 @@ Here are some of the commands the assistant can respond to:
 3. Compile the code using a C++ compiler (such as MinGW or MSVC).
 4. Run the compiled program to start interacting with the virtual assistant.
 
+## YouTube Video
+
+Check out the YouTube video for a demonstration of the Virtual Assistant in action:
+
+[![Watch the YouTube Video](https://drive.google.com/uc?export=view&id=1sWkC4BcenL-JPe6aP1Qnq9i-eiS0AZ1Y)](https://youtu.be/v9Ncwk7sF3I?si=Vg0Hxrv8wgUA1vTG)
+
 ## Acknowledgments
 
 - Thanks to **espeak** for providing text-to-speech functionality.
 - Thanks to **C++** and the **Windows API** for making system-level operations possible.
-  
----
-
-This markdown file provides an overview of the project, features, setup instructions, and technologies used. You can include it in the repository to provide information to future users or contributors.
